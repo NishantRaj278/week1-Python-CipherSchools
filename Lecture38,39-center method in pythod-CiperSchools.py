@@ -1,4 +1,4 @@
-name = "sunny"
+name = "Nishant"
 print(name.center(7,"*"))
 print(name.center(9,"*"))
 print(name.center(6,"*"))
